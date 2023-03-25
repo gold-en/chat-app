@@ -1,7 +1,6 @@
 import React from "react";
 import SideBar from "../components/leftsidecomps/SideBar";
 import ChatWindow from "../components/chatwindowcomps/ChatWindow";
-import "../styles/homepage.scss";
 
 const Home = () => {
   return (
